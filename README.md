@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Biswajit23-tech/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Biswajit23-tech/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Biswajit23-tech/Leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Biswajit23-tech/Leetcode/tree/master/0045-jump-game-ii) |
@@ -40,6 +41,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Biswajit23-tech/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Biswajit23-tech/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Biswajit23-tech/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Biswajit23-tech/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
