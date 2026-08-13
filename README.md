@@ -20,6 +20,7 @@
 | [0238-product-of-array-except-self](https://github.com/Biswajit23-tech/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Biswajit23-tech/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Biswajit23-tech/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Biswajit23-tech/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Biswajit23-tech/Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Biswajit23-tech/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Biswajit23-tech/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Biswajit23-tech/Leetcode/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Biswajit23-tech/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
