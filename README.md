@@ -49,6 +49,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Biswajit23-tech/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Biswajit23-tech/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Biswajit23-tech/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Biswajit23-tech/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,10 +120,12 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Biswajit23-tech/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Biswajit23-tech/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Biswajit23-tech/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Biswajit23-tech/Leetcode/tree/master/0013-roman-to-integer) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Biswajit23-tech/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Biswajit23-tech/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
