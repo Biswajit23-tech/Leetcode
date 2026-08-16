@@ -21,6 +21,7 @@
 | [0238-product-of-array-except-self](https://github.com/Biswajit23-tech/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Biswajit23-tech/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Biswajit23-tech/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2029-stone-game-ix](https://github.com/Biswajit23-tech/Leetcode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Biswajit23-tech/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Biswajit23-tech/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Biswajit23-tech/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Biswajit23-tech/Leetcode/tree/master/0169-majority-element) |
+| [2029-stone-game-ix](https://github.com/Biswajit23-tech/Leetcode/tree/master/2029-stone-game-ix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [0013-roman-to-integer](https://github.com/Biswajit23-tech/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Biswajit23-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Biswajit23-tech/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2029-stone-game-ix](https://github.com/Biswajit23-tech/Leetcode/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +91,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Biswajit23-tech/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Biswajit23-tech/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Biswajit23-tech/Leetcode/tree/master/0135-candy) |
+| [2029-stone-game-ix](https://github.com/Biswajit23-tech/Leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Biswajit23-tech/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Counting Sort
 |  |
@@ -134,4 +138,20 @@
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Biswajit23-tech/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Biswajit23-tech/Leetcode/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Biswajit23-tech/Leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Biswajit23-tech/Leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Biswajit23-tech/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
