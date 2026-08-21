@@ -19,6 +19,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Biswajit23-tech/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Biswajit23-tech/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Biswajit23-tech/Leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Biswajit23-tech/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Biswajit23-tech/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Biswajit23-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Biswajit23-tech/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -155,6 +156,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Biswajit23-tech/Leetcode/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/Biswajit23-tech/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Biswajit23-tech/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
