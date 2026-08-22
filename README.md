@@ -40,6 +40,7 @@
 | [0027-remove-element](https://github.com/Biswajit23-tech/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Biswajit23-tech/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Biswajit23-tech/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Biswajit23-tech/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Biswajit23-tech/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Biswajit23-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Biswajit23-tech/Leetcode/tree/master/0392-is-subsequence) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Biswajit23-tech/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Biswajit23-tech/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Recursion
 |  |
 | ------- |
