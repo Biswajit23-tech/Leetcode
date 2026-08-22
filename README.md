@@ -36,6 +36,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Biswajit23-tech/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Biswajit23-tech/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Biswajit23-tech/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Biswajit23-tech/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -92,6 +93,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Biswajit23-tech/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Biswajit23-tech/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Biswajit23-tech/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Biswajit23-tech/Leetcode/tree/master/0055-jump-game) |
@@ -148,6 +150,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Biswajit23-tech/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Biswajit23-tech/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Biswajit23-tech/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Biswajit23-tech/Leetcode/tree/master/0014-longest-common-prefix) |
@@ -195,4 +198,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Biswajit23-tech/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Biswajit23-tech/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
