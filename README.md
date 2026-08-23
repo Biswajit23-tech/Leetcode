@@ -88,6 +88,7 @@
 | [0189-rotate-array](https://github.com/Biswajit23-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Biswajit23-tech/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1563-stone-game-v](https://github.com/Biswajit23-tech/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Biswajit23-tech/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Biswajit23-tech/Leetcode/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Biswajit23-tech/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -111,6 +112,7 @@
 | [0134-gas-station](https://github.com/Biswajit23-tech/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Biswajit23-tech/Leetcode/tree/master/0135-candy) |
 | [1386-cinema-seat-allocation](https://github.com/Biswajit23-tech/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Biswajit23-tech/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Biswajit23-tech/Leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Biswajit23-tech/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Counting Sort
@@ -156,6 +158,7 @@
 | [0014-longest-common-prefix](https://github.com/Biswajit23-tech/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Biswajit23-tech/Leetcode/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/Biswajit23-tech/Leetcode/tree/master/0392-is-subsequence) |
+| [1927-sum-game](https://github.com/Biswajit23-tech/Leetcode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Biswajit23-tech/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Biswajit23-tech/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
@@ -172,6 +175,7 @@
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Biswajit23-tech/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Biswajit23-tech/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Biswajit23-tech/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
