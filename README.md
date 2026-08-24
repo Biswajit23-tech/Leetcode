@@ -27,6 +27,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Biswajit23-tech/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1386-cinema-seat-allocation](https://github.com/Biswajit23-tech/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Biswajit23-tech/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Biswajit23-tech/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Biswajit23-tech/Leetcode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Biswajit23-tech/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Biswajit23-tech/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -90,6 +91,7 @@
 | [0189-rotate-array](https://github.com/Biswajit23-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Biswajit23-tech/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1563-stone-game-v](https://github.com/Biswajit23-tech/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Biswajit23-tech/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Biswajit23-tech/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Biswajit23-tech/Leetcode/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Biswajit23-tech/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -104,6 +106,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Biswajit23-tech/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Biswajit23-tech/Leetcode/tree/master/0392-is-subsequence) |
 | [1563-stone-game-v](https://github.com/Biswajit23-tech/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Biswajit23-tech/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Biswajit23-tech/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -133,6 +136,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Biswajit23-tech/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1872-stone-game-viii](https://github.com/Biswajit23-tech/Leetcode/tree/master/1872-stone-game-viii) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,11 +176,13 @@
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Biswajit23-tech/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Biswajit23-tech/Leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Biswajit23-tech/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Biswajit23-tech/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Biswajit23-tech/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Biswajit23-tech/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -186,6 +192,7 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Biswajit23-tech/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Biswajit23-tech/Leetcode/tree/master/2029-stone-game-ix) |
 ## Trie
 |  |
