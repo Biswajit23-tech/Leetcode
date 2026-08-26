@@ -157,6 +157,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Biswajit23-tech/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Biswajit23-tech/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Biswajit23-tech/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -169,6 +170,7 @@
 | [0058-length-of-last-word](https://github.com/Biswajit23-tech/Leetcode/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/Biswajit23-tech/Leetcode/tree/master/0392-is-subsequence) |
 | [1927-sum-game](https://github.com/Biswajit23-tech/Leetcode/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Biswajit23-tech/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Biswajit23-tech/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Biswajit23-tech/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
