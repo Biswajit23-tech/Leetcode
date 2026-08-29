@@ -31,6 +31,7 @@
 | [1563-stone-game-v](https://github.com/Biswajit23-tech/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Biswajit23-tech/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Biswajit23-tech/Leetcode/tree/master/2029-stone-game-ix) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Biswajit23-tech/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Biswajit23-tech/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Biswajit23-tech/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Biswajit23-tech/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -57,6 +58,7 @@
 | [0088-merge-sorted-array](https://github.com/Biswajit23-tech/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Biswajit23-tech/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Biswajit23-tech/Leetcode/tree/master/0274-h-index) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Biswajit23-tech/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Biswajit23-tech/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -225,4 +227,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Biswajit23-tech/Leetcode/tree/master/0039-combination-sum) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Biswajit23-tech/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
