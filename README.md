@@ -51,6 +51,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Biswajit23-tech/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Biswajit23-tech/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Biswajit23-tech/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Biswajit23-tech/Leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Biswajit23-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Biswajit23-tech/Leetcode/tree/master/0392-is-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Biswajit23-tech/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Biswajit23-tech/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Biswajit23-tech/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Biswajit23-tech/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Biswajit23-tech/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Biswajit23-tech/Leetcode/tree/master/0274-h-index) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Biswajit23-tech/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Biswajit23-tech/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Biswajit23-tech/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Biswajit23-tech/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -221,6 +224,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Biswajit23-tech/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Biswajit23-tech/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Biswajit23-tech/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/Biswajit23-tech/Leetcode/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Biswajit23-tech/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -254,4 +258,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Biswajit23-tech/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Biswajit23-tech/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
