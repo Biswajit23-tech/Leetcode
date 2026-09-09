@@ -103,6 +103,7 @@
 | [0009-palindrome-number](https://github.com/Biswajit23-tech/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Biswajit23-tech/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Biswajit23-tech/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Biswajit23-tech/Leetcode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/Biswajit23-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Biswajit23-tech/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1563-stone-game-v](https://github.com/Biswajit23-tech/Leetcode/tree/master/1563-stone-game-v) |
@@ -189,6 +190,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Biswajit23-tech/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Biswajit23-tech/Leetcode/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/Biswajit23-tech/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Biswajit23-tech/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
