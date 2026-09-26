@@ -105,6 +105,7 @@
 | [0012-integer-to-roman](https://github.com/Biswajit23-tech/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Biswajit23-tech/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Biswajit23-tech/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Biswajit23-tech/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Biswajit23-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Biswajit23-tech/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1563-stone-game-v](https://github.com/Biswajit23-tech/Leetcode/tree/master/1563-stone-game-v) |
@@ -183,6 +184,7 @@
 | [0014-longest-common-prefix](https://github.com/Biswajit23-tech/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Biswajit23-tech/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Biswajit23-tech/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Biswajit23-tech/Leetcode/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/Biswajit23-tech/Leetcode/tree/master/0392-is-subsequence) |
 | [1927-sum-game](https://github.com/Biswajit23-tech/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Biswajit23-tech/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Biswajit23-tech/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Biswajit23-tech/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Biswajit23-tech/Leetcode/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/Biswajit23-tech/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Biswajit23-tech/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -223,6 +226,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Biswajit23-tech/Leetcode/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Biswajit23-tech/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 |  |
